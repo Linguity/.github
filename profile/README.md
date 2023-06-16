@@ -25,8 +25,10 @@ The following are the team members involved in the development of this project:
 - Tensorflow
 - App Engine (Google Cloud Platform)
 - Google Cloud Storage (Google Cloud Platform)
+- Cloud run docker
 - Gradle
 - Retrofit
+- MySql
 
 ## Features
 
