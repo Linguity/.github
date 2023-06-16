@@ -1,6 +1,8 @@
 # Linguity || English Linguistic study
-
-## What is Linguity?
+<div align="center">
+  <img align="center" src="g1399.png"  width="500"></img>
+  </div>
+<h1>What is Linguity?</h1>
 
 The Linguity app is an app that can help users develop a better English pronunciation. We decided to create a solution to this problem by developing a mobile application that mainly uses voice to learn the English language. We will make an application that makes it easier for users to learn English to improve their pronunciation starting from beginner. Because we make applications for beginners so it can improve pronunciation and make them perfect.
 
