@@ -1,4 +1,4 @@
-# FruitMate - Good Fruit, Happy Farmers
+# Linguity || English Linguistic study
 
 ## What is Linguity?
 
