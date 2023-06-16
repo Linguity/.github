@@ -1,6 +1,6 @@
 # Linguity | English Pronunciation Mastery App
 <div align="center">
-  <img align="center" src="https://raw.githubusercontent.com/Linguity/.github/main/linguity_logo_title_rectangle.png"  width="500"></img>
+  <img align="center" src="https://raw.githubusercontent.com/Linguity/.github/main/assets/linguity_logo_title_rectangle.jpg"  width="500"></img>
   </div>
 <h1>What is Linguity?</h1>
 
