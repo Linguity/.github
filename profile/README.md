@@ -1,4 +1,4 @@
-# Linguity || English Linguistic study
+# Linguity || English Pronunciation Mastery App
 <div align="center">
   <img align="center" src="g1399.png"  width="500"></img>
   </div>
