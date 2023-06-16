@@ -35,8 +35,8 @@ The following are the team members involved in the development of this project:
 
 ## Features
 
-- [v] Login
-- [v] Register
+- [x] Login
+- [x] Register
 - [x] Pronunciation quiz
 - [x] Spelling quiz
 - [x] Learning Content
